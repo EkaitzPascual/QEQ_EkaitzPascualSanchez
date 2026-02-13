@@ -5,7 +5,6 @@ seccionAdivinar.style.textAlign = "center";
 seccionAdivinar.style.marginTop = "20px";
 seccionAdivinar.innerHTML = "<h2>¿Quién es tu personaje?</h2>";
 
-// Insertamos antes del tablero para que se vea arriba (o abajo según prefieras)
 document.body.insertBefore(seccionAdivinar, contenedorJuego); 
 
 function seleccionarPersonajeIncognito() {
@@ -25,5 +24,4 @@ function seleccionarPersonajeIncognito() {
     seccionAdivinar.appendChild(img);
 }
 
-// Ejecutamos
 seleccionarPersonajeIncognito();

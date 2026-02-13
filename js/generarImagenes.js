@@ -3,7 +3,7 @@ const contenedorJuego = document.getElementById("juego-container");
 // Creamos la estructura visual
 const seccionTablero = document.createElement("div");
 seccionTablero.style.display = "grid";
-seccionTablero.style.gridTemplateColumns = "repeat(4, 1fr)"; // 4x4
+seccionTablero.style.gridTemplateColumns = "repeat(4, 1fr)";
 seccionTablero.style.gap = "10px";
 seccionTablero.style.marginBottom = "20px";
 contenedorJuego.appendChild(seccionTablero);
@@ -24,7 +24,6 @@ function pintarTablero() {
         tarjeta.style.textAlign = "center";
         tarjeta.style.padding = "10px";
 
-        // Imagen
         const img = document.createElement("img");
         img.src = `imagenes/${personaje.img}`;
         img.style.cursor = "pointer";
@@ -56,5 +55,4 @@ function pintarTablero() {
     });
 }
 
-// Ejecutamos la primera vez
 pintarTablero();

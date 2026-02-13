@@ -1,5 +1,4 @@
 async function obtenerDatosGithub() {
-    // Tu usuario real
     const usuario = "EkaitzPascual"; 
     const url = `https://api.github.com/users/${usuario}`;
     const contenedorGit = document.getElementById("github-container");
@@ -39,5 +38,4 @@ async function obtenerDatosGithub() {
     }
 }
 
-// Ejecutamos la función
 obtenerDatosGithub();

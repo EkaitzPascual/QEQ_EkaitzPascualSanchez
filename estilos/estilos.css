@@ -1,3 +1,18 @@
 img {
     height: 10em;
 }
+body {
+    /* Ruta a la imagen: subimos un nivel (..) y entramos en imagenes */
+    background-image: url('../imagenes/FondoGhibli.png');
+    
+    /* Para que cubra toda la pantalla y no se repita */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#juego-container, #github-container, div {
+background-color: rgba(255, 255, 255, 0.85); /* 85% opaco */
+border-radius: 15px;
+box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}

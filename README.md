@@ -1,4 +1,4 @@
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/6fe807b4-140d-406e-b31d-f164bd03fd61" /># Quien es Quien - Ghibli
+# Quien es Quien - Ghibli
 Juego de adivinanza para la asignatura de DWEC
 ## Este github es la creacion de un juego de Quien es Quien
 ## Creado por Ekaitz Pascual

@@ -4,10 +4,10 @@ const datosPersonajes = [
     { id: 2, nombre: "Calcifer", pelicula: "El castillo ambulante", img: "Calcifer.png" },
     { id: 3, nombre: "Chihiro Ogino", pelicula: "El viaje de Chihiro", img: "Chihiro.png" },
     { id: 4, nombre: "Haku", pelicula: "El viaje de Chihiro", img: "Haku.png" },
-    { id: 5, nombre: "Howl Jenkins", pelicula: "El castillo ambulante", img: "Hawl.png" }, // Ojo, en tu carpeta dice Hawl.png
-    { id: 6, nombre: "Jiji", pelicula: "Kiki: Entregas a domicilio", img: "Jiji.png" },
+    { id: 5, nombre: "Howl Jenkins", pelicula: "El castillo ambulante", img: "Hawl.png" },
+    { id: 6, nombre: "Jiji", pelicula: "Nicky, la aprendiz de bruja", img: "Jiji.png" },
     { id: 7, nombre: "Mei Kusakabe", pelicula: "Mi vecino Totoro", img: "Mei.png" },
-    { id: 8, nombre: "Miyazaki", pelicula: "Director", img: "miyazaki.jpeg" }, // Imagen especial
+    { id: 8, nombre: "Miyazaki", pelicula: "Director", img: "miyazaki.jpeg" },
     { id: 9, nombre: "Nausicaä", pelicula: "Nausicaä del Valle del Viento", img: "Nausica.png" },
     { id: 10, nombre: "Pazu", pelicula: "El castillo en el cielo", img: "Pazu.png" },
     { id: 11, nombre: "Ponyo", pelicula: "Ponyo en el acantilado", img: "Ponyo.png" },

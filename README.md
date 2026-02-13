@@ -16,7 +16,7 @@ Juego de adivinanza para la asignatura de DWEC
 ### Enlace al github
 [El enlace al github](https://github.com/EkaitzPascual)
 ### Foto logo Ghibli
-![Logo Ghibli](https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Studio_Ghibli_logo.svg/1200px-Studio_Ghibli_logo.svg.png)
+![Logo Ghibli]([https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Studio_Ghibli_logo.svg/1200px-Studio_Ghibli_logo.svg.png](https://2img.net/image.noelshack.com/fichiers/2015/01/1420295889-studio-ghibli.png))
 ---
 
 ### Lineas de codigo

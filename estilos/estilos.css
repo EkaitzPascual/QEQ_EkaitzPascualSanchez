@@ -2,10 +2,7 @@ img {
     height: 10em;
 }
 body {
-    /* Ruta a la imagen: subimos un nivel (..) y entramos en imagenes */
     background-image: url('../imagenes/FondoGhibli.png');
-    
-    /* Para que cubra toda la pantalla y no se repita */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
